@@ -1,0 +1,29 @@
+button{
+  display: block;
+}
+
+#buscar{
+  background-color:lightgray;
+  border: 3px solid green;
+  border-radius: 25px;
+  color: green;
+  height: 30px;
+  width: 100px;
+}
+
+#mas{
+  background-color: green;
+  border: 2px solid white;
+  border-radius: 50%;
+  color: white;
+  height: 25px;
+  width: 25px;
+}
+
+#crear-usuario{
+  background-color: lightseagreen;
+  border: 2px solid black;
+  height: 30px;
+  width: 200px;
+  box-shadow: 5px 5px black;
+}
