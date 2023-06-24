@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: lightgoldenrodyellow;
+}
+
+.bloque{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 20px;
+}
+
+#bloque1{
+  background-color: lightblue;
+
+}
+
+#bloque2{
+  background-color:lightgray;
+  justify-content: space-around;
+}
+
+#bloque3{
+  background-color: lightpink;
+}
+
+h1{
+  text-align:center;
+  background-color: lightgrey;
+  margin-bottom: 20px;
+}
+
+img{
+  height:280px;
+}
